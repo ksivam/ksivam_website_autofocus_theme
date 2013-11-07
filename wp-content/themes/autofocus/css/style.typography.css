@@ -1,0 +1,11 @@
+/* =Typography
+-------------------------------------------------------------- */
+body, 
+input, 
+/*
+* krishnas: change text area font family
+*/
+textarea {font-family:"Courier New", "Helvetica Neue",Helvetica,Arial,"Nimbus Sans L",sans-serif}
+pre{font-family:"Courier 10 Pitch",Courier,monospace}
+code{font-family:Monaco,Consolas,"Andale Mono","DejaVu Sans Mono",monospace}
+
